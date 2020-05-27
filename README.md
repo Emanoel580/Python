@@ -1,2 +1,2 @@
 # Python
-Exercicios
+Exercicios do curso
